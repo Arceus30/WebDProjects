@@ -1,0 +1,14 @@
+.box {
+    margin: 0 1.5rem;
+    padding: 1rem 2rem;
+}
+
+.items a {
+    font-size: 1rem;
+    padding: 0.5rem 0.5rem;
+}
+
+#Clients {
+    position: relative;
+    z-index: -1;
+}

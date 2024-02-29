@@ -1,0 +1,19 @@
+#Clients {
+    z-index: -1;
+}
+
+#Clients::before {
+    height: 13.4rem;
+}
+
+.box {
+    width: 18rem;
+}
+
+.Cl_Img img {
+    width: 5rem;
+}
+
+.Clients_cont {
+    width: 30%;
+}
